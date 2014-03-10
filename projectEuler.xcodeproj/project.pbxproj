@@ -6,10 +6,37 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		BC01D77518BF4C15003660D0 /* problem17.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = problem17.c; sourceTree = "<group>"; };
+		BC08F76818B901FA00F5441D /* firstTask.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = firstTask.c; sourceTree = "<group>"; };
+		BC08F76918B904C800F5441D /* problem4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = problem4.c; sourceTree = "<group>"; };
+		BC08F76B18B914E900F5441D /* problem8.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = problem8.py; sourceTree = "<group>"; };
+		BC08F76C18B91CB200F5441D /* problem9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = problem9.c; sourceTree = "<group>"; };
+		BC08F76D18B91EE200F5441D /* problem10.hs */ = {isa = PBXFileReference; lastKnownFileType = text; path = problem10.hs; sourceTree = "<group>"; };
+		BC2AEAC318BCE66800E75DE8 /* problem15.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = problem15.c; sourceTree = "<group>"; };
+		BC9585D718BA477300970869 /* problem11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = problem11.py; sourceTree = "<group>"; };
+		BC9585D818BA4E6600970869 /* problem13.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = problem13.py; sourceTree = "<group>"; };
+		BC9585D918BA501300970869 /* problem14.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = problem14.c; sourceTree = "<group>"; };
+		BC9585DA18BA634C00970869 /* problem12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = problem12.c; sourceTree = "<group>"; };
+		BCC0C23D18BC96F7003E7A22 /* problem12.hs */ = {isa = PBXFileReference; lastKnownFileType = text; path = problem12.hs; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		BC08F76118B901D300F5441D = {
 			isa = PBXGroup;
 			children = (
+				BC08F76818B901FA00F5441D /* firstTask.c */,
+				BC08F76918B904C800F5441D /* problem4.c */,
+				BC08F76B18B914E900F5441D /* problem8.py */,
+				BC08F76C18B91CB200F5441D /* problem9.c */,
+				BC08F76D18B91EE200F5441D /* problem10.hs */,
+				BC9585D718BA477300970869 /* problem11.py */,
+				BC9585D818BA4E6600970869 /* problem13.py */,
+				BC9585D918BA501300970869 /* problem14.c */,
+				BC9585DA18BA634C00970869 /* problem12.c */,
+				BCC0C23D18BC96F7003E7A22 /* problem12.hs */,
+				BC2AEAC318BCE66800E75DE8 /* problem15.c */,
+				BC01D77518BF4C15003660D0 /* problem17.c */,
 			);
 			sourceTree = "<group>";
 		};
